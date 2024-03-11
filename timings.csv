@@ -1,0 +1,37 @@
+data_file,sim_type,time_taken
+argon120,Bruteforce,0.00174642
+argon120,Double Increment,0.00088148
+argon120,MPI Cyclic Dist 1 Thread,0.0018116
+argon120,MPI Cyclic Dist 4 Threads,0.000481907
+argon120,MPI Cyclic Dist 8 Threads,0.000154566
+argon120,MPI Chunked Dist 1 Thread,0.00175236
+argon120,MPI Chunked Dist 4 Threads,0.000436936
+argon120,MPI Chunked Dist 8 Threads,0.000220515
+argon120,Cell List,0.0017785
+argon120,MPI Cell List 1 Thread,0.00177062
+argon120,MPI Cell List 4 Threads,0.000479018
+argon120,MPI Cell List 8 Threads,0.000309424
+argon10549,Bruteforce,13.5014
+argon10549,Double Increment,6.72952
+argon10549,MPI Cyclic Dist 1 Thread,13.4644
+argon10549,MPI Cyclic Dist 4 Threads,3.37847
+argon10549,MPI Cyclic Dist 8 Threads,1.69042
+argon10549,MPI Chunked Dist 1 Thread,13.5179
+argon10549,MPI Chunked Dist 4 Threads,3.38432
+argon10549,MPI Chunked Dist 8 Threads,1.68799
+argon10549,Cell List,0.225325
+argon10549,MPI Cell List 1 Thread,0.225696
+argon10549,MPI Cell List 4 Threads,0.0663565
+argon10549,MPI Cell List 8 Threads,0.036605
+argon147023,Bruteforce,2626.54
+argon147023,Double Increment,1309.32
+argon147023,MPI Cyclic Dist 1 Thread,2631.77
+argon147023,MPI Cyclic Dist 4 Threads,666.742
+argon147023,MPI Cyclic Dist 8 Threads,335.714
+argon147023,MPI Chunked Dist 1 Thread,2637.71
+argon147023,MPI Chunked Dist 4 Threads,669.414
+argon147023,MPI Chunked Dist 8 Threads,335.646
+argon147023,Cell List,5.96799
+argon147023,MPI Cell List 1 Thread,6.02414
+argon147023,MPI Cell List 4 Threads,1.70783
+argon147023,MPI Cell List 8 Threads,0.9522
